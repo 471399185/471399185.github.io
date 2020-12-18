@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Golden Bough: A Stuudy in Comparative Religion</title>
+        <author>Sir James George Frazer</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Macmillan. Ltd (1st edition)</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Wikisource</p>
+        <p>Gutenberg Project</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>[Chapter 61]</p>
+      <p><lb/><quote>Once upon a time <name><hi rend="italic">Balder</hi></name> dreamed heavy dreams which seemed
+        <lb/>to forbode his death. Thereupon the gods held a council and resolved
+        <lb/>to make Balder secure against every danger. So the goddess <hi rend="italic">Frigg</hi>
+        <lb/>took an oath from fire and water, iron and all metals, stones and
+        <lb/>earth, from trees, sicknesses and poisons, and from all four-footed
+        <lb/>beasts, birds and creeping things, that they would not hurt Balder.
+        <lb/>When this was done <name><hi rend="italic">Balder</hi></name> was deemed invulnerable; so the gods
+        <lb/>amused themselves by setting him in their midst, while some shot at
+        <lb/>him, others hewed at him, and others threw stones at him. But
+        <lb/>whatever they did, nothing could hurt him; and at this they were all
+        <lb/>glad.</quote></p>
+      <p><quote>Only <name><hi rend="italic">Loki</hi></name>, the mischief maker, was displeased, and he went
+        in the guise of an old women to <hi rend="italic">Frigg</hi>, who told him that the weapons
+        of the gods could not hurt Balder, since she had made them all swear
+        not to hurt him. Then Loki asked, <quote>have all things sworn to
+        spare Balder?</quote> She answered, <quote>East of Valhalla grows a
+        plant called <hi rend="italic">mistletoe</hi>; it seemed to me too young to swear</quote>.
+        So Loki went and pulled the <hi rend="italic">mistletoe</hi> and took it to the assembly of
+        the gods. There he found the blind god <hi rend="italic">Hother</hi> standing at the
+        outside of the circle. Loki asked him, <said>Why do you not shoot
+          at Balder?</said><name><hi rend="italic">Hother</hi></name> answered, <said>Because I do not see
+            where he stands; besides I have no weapon.</said> Then said Loki,
+        <said>Do like the rest and show Balder honour, as they all do. I
+          will show you where he stands, and do you shoot at him with this
+          twig.</said> <name><hi rend="italic">Hother</hi></name> took the <hi rend="italic">mistletoe</hi> and threw it at Balder, as
+        <name><hi rend="italic">Loki</hi></name> directed him. The <hi rend="italic">mistletoe</hi> struck Balder and pierced him
+        through and through, and he fell down dead. For a while the gods
+        stood speechless, then they lifted up their voices and wept
+        bitterly.</quote></p>
+    </body>
+  </text>
+</TEI>
+
