@@ -2,29 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humanites and Games</title>
-    <link>http://example.org/</link>
+    <link>https://471399185.github.io/</link>
     <description>Recent content on Humanites and Games</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 04 Dec 2020 13:14:02 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Assassin Creed</title>
-      <link>http://example.org/posts/assassincreed/</link>
-      <pubDate>Fri, 04 Dec 2020 13:14:02 +0200</pubDate>
-      
-      <guid>http://example.org/posts/assassincreed/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>God of War lV and Norse Mythology</title>
-      <link>http://example.org/posts/god/</link>
-      <pubDate>Fri, 27 Nov 2020 12:04:51 +0200</pubDate>
-      
-      <guid>http://example.org/posts/god/</guid>
-      <description>When I fast time played video games in my Personal Computer. Sometimes, I had impress by the storyline that describe in the games. The way the game creators combine the story of myth or historical events into their game, always makes me want to dig out the stories further. For example, the use of the story about god Balder. In the famous video game, God of War lV.
-Balder and mistletoe and Loki The Death of Balder In God of War IV</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://471399185.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
