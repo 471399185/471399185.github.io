@@ -1,4 +1,5 @@
-baseURL = "https://471399185.github.io/hugosite/"
+baseURL = "https://471399185.github.io.git/"
 languageCode = "en-us"
 title = "Humanites and Games"
 theme = "ananke"
+publishDir = "docs"

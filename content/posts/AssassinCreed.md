@@ -1,7 +1,6 @@
 ---
 title: "Assassin's Creed and Humanities"
 date: 2020-12-04T13:14:02+02:00
-draft: true
 ---
 
 _When we talk about histories or historical events in video games.
@@ -11,11 +10,13 @@ that, it was easier to look for some historical attractions or stories.
 In order to increase the sense of reality, Ubisoft tries to restore some landmark.
 For Example, Notre Dame De Paris, Hagia Sophia, Big Ben，and so on. Also, they
 add some historical figures and events to help improve the sense of reality.
-For instance, Benjamin Franklin, Blackbeard, Charles Dickens_
+For instance, **Benjamin Franklin**, **Blackbeard**, **Charles Dickens**_
+
+---
 
 # Landmarks
 
-## Assassin's Creed and Notre Dame cathedral
+## Assassin's Creed and Notre Dame Cathedral
 
 Notre Dame Cathedral in Game:
 ![Notre Dame De Paris Game](https://i.guim.co.uk/img/media/d6dec9475aff1a117081a20a25ea67ba98248cff/0_126_3989_2394/master/3989.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e78ebb13265d96fb7e028c80d27dfdec)
@@ -58,6 +59,8 @@ cited from **[Wikipedia](https://www.wikipedia.org/)**:
 
 >The tower was designed by Augustus Pugin in a neo-Gothic style. When completed in 1859, its clock was the largest and most accurate four-faced striking and chiming clock in the world. The tower stands 315 feet (96 m) tall, and the climb from ground level to the belfry is 334 steps. Its base is square, measuring 39 feet (12 m) on each side. Dials of the clock are 23 feet (7.0 m) in diameter. On 31 May 2009, celebrations were held to mark the tower's 150th anniversary.
 
+----
+
 # Events
 
 ## The Story of Jack the Ripper
@@ -94,7 +97,10 @@ The adaptation of the real historical events of "Jack the Ripper" make the plot 
 * Extra:\
 Climb the Space Needle in the plot of the game **[Infamous Second Son](https://www.youtube.com/watch?v=I3TbtiEtWx4)**
 
-\
-\
-So, It is needless to say, right now, the game companies are noticed the importance of humanities related to game content creation.
-The use of humanities stuffs. For example, the music, the historical attractions, and the literature works. It helps the game create some more educational and meaningful results. Also a plot cite from humanity works helps to game become vivid too. The adaptation of game The Witcher 3 base on the novel The Witcher series by Andrzej Sapkowski. The promotion of the game, helps to create more derived products. Like the music album of The Witcher 3. From this point of view, I can say, right now, the humanities and game creation are closely related from now on.
+---
+
+_It is needless to say, right now, the game companies are noticed the importance of humanities related to game content creation.
+The use of humanities stuffs. For example, the music, the historical attractions, and the literature works. It helps the game create some more educational and meaningful results. Also a plot cite from humanity works helps to game become vivid too. The adaptation of game [The Witcher 3](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) base on the novel [The Witcher series](https://en.wikipedia.org/wiki/The_Witcher) by Andrzej Sapkowski. The promotion of the game, helps to create more derived products. Like the music album of The Witcher 3. From this point of view, I can say, right now, the humanities and game creation are closely related from now on._
+
+---
+Edit by: Kailun Zhang
