@@ -1,2 +1,3 @@
 # 471399185.github.io
-## This is a courses project from London King's college introduce to Digital Humanities Class. In order to generate a static website using with Hugo.
+## This is a final project for class Introduce to Digital Humanities by King's College London.
+The project was using Hugo to generate a static webiste with humanities related content.
